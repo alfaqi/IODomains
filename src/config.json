@@ -1,0 +1,12 @@
+{
+    "5": {
+        "IODomainsGoerli": {
+            "address": "0x9d5523b1e26A23A2dCa0B93a0971c9b374D7d595"
+        }
+    },
+    "31337": {
+        "IODomainsLocal": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        }
+    }
+}
